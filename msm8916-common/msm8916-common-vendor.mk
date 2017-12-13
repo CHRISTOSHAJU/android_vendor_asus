@@ -32,7 +32,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/msm8916-common/proprietary/vendor/bin/imsdatadaemon:system/vendor/bin/imsdatadaemon\
     vendor/asus/msm8916-common/proprietary/vendor/bin/imsqmidaemon:system/vendor/bin/imsqmidaemon\
     vendor/asus/msm8916-common/proprietary/vendor/bin/ims_rtp_daemon:system/vendor/bin/ims_rtp_daemon\
-    vendor/asus/msm8916-common/proprietary/bin/vendor/irsc_util:system/vendor/bin/irsc_util\
+    vendor/asus/msm8916-common/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util\
     vendor/asus/msm8916-common/proprietary/bin/loc_launcher:system/bin/loc_launcher\
     vendor/asus/msm8916-common/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance\
     vendor/asus/msm8916-common/proprietary/vendor/bin/netmgrd:system/vendor/bin/netmgrd\
@@ -40,7 +40,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/msm8916-common/proprietary/vendor/bin/qseecomd:system/vendor/bin/qseecomd\
     vendor/asus/msm8916-common/proprietary/vendor/bin/radish:system/vendor/bin/radish\
     vendor/asus/msm8916-common/proprietary/vendor/bin/rfs_access:system/vendor/bin/rfs_access\
-    vendor/asus/msm8916-common/proprietary/vendor/bin/vendor/rmt_storage:system/vendor/bin/rmt_storage\
+    vendor/asus/msm8916-common/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage\
     vendor/asus/msm8916-common/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon\
     vendor/asus/msm8916-common/proprietary/vendor/bin/vm_bms:system/vendor/bin/vm_bms\
     vendor/asus/msm8916-common/proprietary/etc/audio_effects.conf:system/etc/audio_effects.conf\
