@@ -22,7 +22,6 @@ DEVICE_PACKAGE_OVERLAYS += vendor/asus/msm8916-common/overlay
 
 PRODUCT_COPY_FILES += \
     vendor/asus/msm8916-common/proprietary/vendor/bin/adsprpcd:system/vendor/bin/adsprpcd\
-    vendor/asus/msm8916-common/proprietary/vendor/bin/btnvtool:system/vendor/bin/btnvtool\
     vendor/asus/msm8916-common/proprietary/bin/cnd:system/bin/cnd\
     vendor/asus/msm8916-common/proprietary/bin/dpmd:system/bin/dpmd\
     vendor/asus/msm8916-common/proprietary/bin/garden_app:system/bin/garden_app\
